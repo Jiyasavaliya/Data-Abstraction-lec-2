@@ -16,8 +16,8 @@ class mathematical : public Mathematical{
 		
 			
 	        area_of_circle = pi * r * r;
-			area_of_triangle = h * b / 2;
-            area_of_rectangle = w * l;
+	        area_of_triangle = h * b / 2;
+                area_of_rectangle = w * l;
             
 			cout<<area_of_circle<<endl<<area_of_triangle<<endl<<area_of_rectangle;
 			
